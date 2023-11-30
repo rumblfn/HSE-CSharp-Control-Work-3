@@ -1,0 +1,15 @@
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/bin/Debug/net6.0/ControlHomework2-2
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/bin/Debug/net6.0/ControlHomework2-2.deps.json
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/bin/Debug/net6.0/ControlHomework2-2.runtimeconfig.json
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/bin/Debug/net6.0/ControlHomework2-2.dll
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/bin/Debug/net6.0/ControlHomework2-2.pdb
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.csproj.AssemblyReference.cache
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.AssemblyInfoInputs.cache
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.AssemblyInfo.cs
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.csproj.CoreCompileInputs.cache
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.dll
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/refint/ControlHomework2-2.dll
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.pdb
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ControlHomework2-2.genruntimeconfig.cache
+/Users/samilvaliahmetov/Projects/ControlHomework2-2/ControlHomework2-2/obj/Debug/net6.0/ref/ControlHomework2-2.dll
